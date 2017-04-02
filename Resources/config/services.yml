@@ -1,4 +1,4 @@
 services:
-#    tyrbok_healt_check.example:
+#    tyrbok_health_check.example:
 #        class: Tyrbok\HealtCheckBundle\Example
 #        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -18,7 +18,7 @@ class Configuration implements ConfigurationInterface
     public function getConfigTreeBuilder()
     {
         $treeBuilder = new TreeBuilder();
-        $rootNode = $treeBuilder->root('tyrbok_healt_check');
+        $rootNode = $treeBuilder->root('tyrbok_health_check');
 
         // Here you should define the parameters that are allowed to
         // configure your bundle. See the documentation linked above for
