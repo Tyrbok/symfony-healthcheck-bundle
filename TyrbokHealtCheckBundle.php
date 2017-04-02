@@ -1,9 +1,9 @@
 <?php
 
-namespace Tyrbok\HealtCheckBundle;
+namespace Tyrbok\HealthCheckBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class TyrbokHealtCheckBundle extends Bundle
+class TyrbokHealthCheckBundle extends Bundle
 {
 }

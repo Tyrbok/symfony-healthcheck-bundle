@@ -1,6 +1,6 @@
 <?php
 
-namespace Tyrbok\HealtCheckBundle\Tests\Controller;
+namespace Tyrbok\HealthCheckBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Tyrbok\HealtCheckBundle\DependencyInjection;
+namespace Tyrbok\HealthCheckBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

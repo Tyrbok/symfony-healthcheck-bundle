@@ -9,5 +9,10 @@
             "email": "jesus.serrano@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Tyrbok\\HealthCheckBundle": ""
+        }
+    },
     "require": {}
 }
