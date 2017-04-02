@@ -1,0 +1,13 @@
+{
+    "name": "tyrbok/symfony-healthcheck-bundle",
+    "description": "Shows application health information. You can also write your own indicators.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesus Serrano",
+            "email": "jesus.serrano@gmail.com"
+        }
+    ],
+    "require": {}
+}
